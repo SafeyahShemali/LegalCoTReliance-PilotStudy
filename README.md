@@ -8,8 +8,12 @@ This pilot study assesses the effect of different formatting of CoT as an explan
 ---
 
 ## 📝 Study Framework
-![Research Overview](./images/study_diagram.png)
-*Figure 1: The user study design*
+<div align="center">
+  <figure>
+    <img src="./images/study_diagram.png" alt="Research Overview" width="800">
+    <figcaption><i>Figure 1: The user study design* flow.</i></figcaption>
+  </figure>
+</div>
 
 ---
 
