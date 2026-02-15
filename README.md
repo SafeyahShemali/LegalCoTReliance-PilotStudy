@@ -21,6 +21,5 @@ This pilot study assesses the effect of different formatting of CoT as an explan
 
 ### Installation
 ```bash
-git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
-cd your-repo-name
-pip install -r requirements.txt
+git clone https://github.com/SafeyahShemali/LegalCoTReliance-PilotStudy.git
+cd LegalCoTReliance-PilotStudy.git
