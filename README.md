@@ -11,7 +11,14 @@ This pilot study assesses the effect of different formatting of CoT as an explan
 <div align="center">
   <figure>
     <img src="./images/study_diagram.png" alt="Research Overview" width="800">
-    <figcaption><i>Figure 1: The user study design* flow.</i></figcaption>
+    <figcaption><i>Figure 1: The user study design flow, illustrating the experimental conditions: No XAI, Concise CoT, and Structured CoT classification tasks per participant* </i></figcaption>
+  </figure>
+</div>
+
+<div align="center">
+  <figure>
+    <img src="./images/study_framework.png" alt="User Study Design Flow" width="850">
+    <figcaption><i>Figure 1: The user study design flow, illustrating the experimental conditions: No XAI, Concise CoT, and Structured CoT classification tasks per participant.</i></figcaption>
   </figure>
 </div>
 
