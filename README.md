@@ -10,7 +10,7 @@ This pilot study assesses the effect of different formatting of CoT as an explan
 ## 📝 Study Framework
 <div align="center">
   <figure>
-    <img src="./images/study_framework.png" alt="User Study Design Flow" width="850">
+    <img src="./images/study_diagram.png" alt="User Study Design Flow" width="850">
     <figcaption><i>Figure 1: The user study design flow, illustrating the experimental conditions: No XAI, Concise CoT, and Structured CoT classification tasks per participant.</i></figcaption>
   </figure>
 </div>
@@ -20,7 +20,7 @@ This pilot study assesses the effect of different formatting of CoT as an explan
 ## 📊 Results
 <div align="center">
   <figure>
-    <img src="./images/quadrantframework.png" alt="User Study Design Flow" width="900">
+    <img src="./images/quadrantframework.png" alt="User Study Design Flow" width="1000">
     <figcaption><i>Figure 2: Comparative Analysis: NO-XAI vs. Concise vs. Structured CoT Reliance
 Frameworks; Delta (∆) = CoT condition Accuracy − No XAI Baseline Accuracy.</i></figcaption>
   </figure>
@@ -28,7 +28,7 @@ Frameworks; Delta (∆) = CoT condition Accuracy − No XAI Baseline Accuracy.</
 
 <div align="center">
   <figure>
-    <img src="./images/usefulness.png" alt="User Study Design Flow" width="900">
+    <img src="./images/usefulness.png" alt="User Study Design Flow" width="1000">
     <figcaption><i>Figure 3: alibration Gap by CoT Condition </i></figcaption>
   </figure>
 </div>
