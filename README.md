@@ -15,7 +15,10 @@ This pilot study assesses the effect of different formatting of CoT as an explan
 
 ## 📊 Results
 ![Research Overview] (./images/quadrantframework.png)
+*Figure 2: Comparative Analysis: NO-XAI vs. Concise vs. Structured CoT Reliance
+Frameworks; Delta (∆) = CoT condition Accuracy − No XAI Baseline Accuracy*
 ![Research Overview] (./images/usefulness.png)
+*Figure 3: Calibration Gap by CoT Condition*
 
 ## 🚀 Quick Start
 
