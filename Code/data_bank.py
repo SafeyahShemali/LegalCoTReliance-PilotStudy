@@ -11,8 +11,14 @@ data_source_file_path = hf_hub_download(
     repo_type="dataset"
 )
 
+sample_data_source_file_path = 'Result/sampled_output.csv'
+
 def load_data():
     df = pd.read_csv(data_source_file_path, sep='\t')
+    return df
+
+def load_sample_data():
+    df = pd.read_csv(sample_data_source_file_path, sep=',')
     return df
 
 def is_file_exits(filename: str):
@@ -32,7 +38,7 @@ def josn_processing(responce:str):
         return None
     
     
-def save_result(filename: str, result: []):
+def save_result(filename: str, result: list):
     with open(filename, 'a') as csvfile:
         csvwriter = csv.writer(csvfile)
 

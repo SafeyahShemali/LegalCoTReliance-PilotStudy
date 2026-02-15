@@ -15,7 +15,7 @@ class Model:
         self.api_key_ = api_key_
         self.api_base_ = api_base_
         self.temp = 0
-        self.max_tokens = 1000 #I think this is enough
+        self.max_tokens = 500 #I think this is enough
         self.client = OpenAI(api_key = api_key_, base_url= api_base_)
         self.format = {"type": "json_object"}
         
@@ -40,3 +40,4 @@ class Model:
 
 
 #{"role": "system", "content": prompt_bank.qurey_prompt('base_prompt')},
+
